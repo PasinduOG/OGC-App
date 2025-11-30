@@ -1,7 +1,7 @@
-# Weather App Extended
+# OGC - The Country Searching Platform
 
 ## Overview
-The Weather App Extended is a web application that provides users with real-time weather updates for their selected locations. It features a modern design and user-friendly interface.
+The OGC - The Country Searching Platform is a web application that provides users with real-time weather updates for their selected locations. It features a modern design and user-friendly interface.
 
 ## Features
 - Current weather information including temperature, humidity, and wind speed.
@@ -22,11 +22,11 @@ assets/
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PasinduOG/OGC-App.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather-app-extended
+   cd OGC-App
    ```
 3. Open `index.html` in your browser to view the application.
 
